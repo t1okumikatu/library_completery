@@ -1,3 +1,3 @@
 # library_completery
 Jrobo_Car　
-ライブラri
+ライブラリー
